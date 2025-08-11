@@ -1,0 +1,1 @@
+This is about the use of Git Flow
